@@ -1,4 +1,4 @@
-# README for Son of Powershell Scripts
+# Son of Powershell Scripts
 
 Just playing around with .NET Core and pwsh on macbook
 
@@ -17,6 +17,7 @@ pwsh ./wordCount.ps1
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Happy hacking
+As you can see I enjoy various musical artists :)
 
 ## License
 
